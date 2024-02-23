@@ -1,0 +1,21 @@
+{
+  "name": "create-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "index.html",
+  "bin": {
+    "create-boilerplate": "./generate-app.js"
+  },
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.11.0",
+    "rimraf": "^5.0.5"
+  }
+}
