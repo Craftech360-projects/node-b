@@ -5,7 +5,7 @@
   "main": "index.js",
   "source": "index.html",
   "bin": {
-    "create-boilerplate": "./bin/create-app.js"
+    "create-boilerplate": "./generate-app.js"
   },
   "scripts": {
     "start": "parcel",
