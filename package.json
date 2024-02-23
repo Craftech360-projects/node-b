@@ -2,12 +2,11 @@
   "name": "create-cft-node",
   "version": "1.2.0",
   "description": "",
-  "source": "index.html",
   "bin": {
     "create-cft-node": "./bin/createApp.js"
   },
   "scripts": {
-    "start": "parcel",
+    "start": "node index.js",
     "build": "parcel build"
   },
   "keywords": [],
