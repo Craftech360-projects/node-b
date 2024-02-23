@@ -1,10 +1,10 @@
 {
-  "name": "cft-node-app",
+  "name": "create-cft-node",
   "version": "1.2.0",
   "description": "",
   "source": "index.html",
   "bin": {
-    "create-boilerplate": "./createApp.js"
+    "create-cft-node": "./createApp.js"
   },
   "scripts": {
     "start": "parcel",
