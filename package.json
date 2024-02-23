@@ -4,7 +4,7 @@
   "description": "",
   "source": "index.html",
   "bin": {
-    "create-cft-node": "./createApp.js"
+    "create-cft-node": "./bin/createApp.js"
   },
   "scripts": {
     "start": "parcel",
